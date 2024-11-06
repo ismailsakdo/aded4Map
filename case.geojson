@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "case",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Case1", "gender": "male", "age": 34.0, "income": 4500.0, "status": "pelatih" }, "geometry": { "type": "Point", "coordinates": [ 101.583475381218605, 3.221803761151671 ] } },
+{ "type": "Feature", "properties": { "Name": "Case2", "gender": "female", "age": 30.0, "income": 5000.0, "status": "pelawat" }, "geometry": { "type": "Point", "coordinates": [ 101.583175655193301, 3.219661595091829 ] } },
+{ "type": "Feature", "properties": { "Name": "Case3", "gender": "male", "age": 25.0, "income": 2340.0, "status": "pelawat" }, "geometry": { "type": "Point", "coordinates": [ 101.586204779478294, 3.220920293837348 ] } },
+{ "type": "Feature", "properties": { "Name": "Case4", "gender": "female", "age": 29.0, "income": 6900.0, "status": "pelatih" }, "geometry": { "type": "Point", "coordinates": [ 101.585283616601004, 3.220555476098154 ] } },
+{ "type": "Feature", "properties": { "Name": "Case5", "gender": "female", "age": 28.0, "income": 1900.0, "status": "pelawat" }, "geometry": { "type": "Point", "coordinates": [ 101.590318027983997, 3.219772011954722 ] } }
+]
+}
